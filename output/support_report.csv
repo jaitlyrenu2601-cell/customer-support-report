@@ -1,0 +1,26 @@
+month,contact_center_name,department,total_interactions,total_calls,total_call_duration
+2025-01,Atlanta GA SE,Benefits,2,2,22.0
+2025-01,Atlanta GA SE,Operations,1,1,14.0
+2025-01,Atlanta GA SE,Unknown,1,0,0.0
+2025-01,Boston MA NE,Finance,1,0,0.0
+2025-01,Boston MA NE,IT,1,1,19.0
+2025-01,Boston MA NE,Member Services,1,1,2.0
+2025-01,Boston MA NE,Operations,1,1,19.0
+2025-01,Richmond VA E,IT,1,1,13.0
+2025-02,Atlanta GA SE,Member Services,1,1,8.0
+2025-02,Atlanta GA SE,Operations,1,0,0.0
+2025-02,Boston MA NE,Benefits,1,1,8.0
+2025-02,Boston MA NE,Finance,1,0,0.0
+2025-02,Boston MA NE,IT,1,1,17.0
+2025-02,Boston MA NE,Member Services,1,1,2.0
+2025-02,Boston MA NE,Operations,1,1,14.0
+2025-02,Richmond VA E,IT,2,2,23.0
+2025-02,Richmond VA E,Operations,1,1,15.0
+2025-03,Atlanta GA SE,Operations,2,1,10.0
+2025-03,Boston MA NE,Benefits,1,1,14.0
+2025-03,Boston MA NE,Finance,1,1,5.0
+2025-03,Boston MA NE,IT,1,1,19.0
+2025-03,Boston MA NE,Operations,1,1,21.0
+2025-03,Richmond VA E,IT,1,0,0.0
+2025-03,Richmond VA E,Member Services,1,1,11.0
+2025-03,Richmond VA E,Operations,1,0,0.0
